@@ -1,0 +1,3 @@
+Name: Katie!
+
+This is my first text document in VS CODE!!!!
